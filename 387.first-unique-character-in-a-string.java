@@ -1,5 +1,3 @@
-import java.util.Map;
-
 /*
  * @lc app=leetcode id=387 lang=java
  *
